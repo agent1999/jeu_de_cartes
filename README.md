@@ -1,18 +1,10 @@
 # PROJET CARTES - GENIE LOGICIEL 2023/2024
 ***
-Ce document réalisé a été réalisé par agent1999 en collaboration avec HEBC et Stephen, dans le cadre d'un projet de Génie Logiciel, en L2-Informatique 2023-2024.
+Ce document réalisé a été réalisé par agent1999 en collaboration avec HEBC et Stefx, dans le cadre d'un projet en Génie Logiciel en L2-Informatique 2023-2024.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Presentation](#presentation)
-3. [Fonctionnement](#fonctionnement)
-### Introduction
-***
-**HEBC's Production**
-- Retrouvez sur notre site les différents horaires de trains et de RER de la région parisienne.
-- Toutes les informations dont vous avez besoin pour vos trajets sont disponibles dessus !
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/4/47/China-Sichuan.png)
+1. [Presentation](#presentation)
+2. [Fonctionnement](#fonctionnement)
 
 ### Presentation
 ***

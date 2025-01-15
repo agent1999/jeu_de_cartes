@@ -23,5 +23,3 @@ Ce document réalisé a été réalisé par agent1999 en collaboration avec HEBC
 4. Dans Project Explorer, dérouler le dossier Cartes, puis le dossier src, puis le package test
 5. Toujours dans Project Explorer, ouvrir le fichier TestCarteSimulation.java en double-cliquant dessus
 6. Appuyer sur le bouton vert avec un triangle vert (ou blanc) en haut d'Eclipe pour éxécuter le logiciel
-
-![alt text](https://static.vecteezy.com/system/resources/thumbnails/015/081/537/small_2x/poker-playing-cards-3d-rendering-isometric-icon-png.png)

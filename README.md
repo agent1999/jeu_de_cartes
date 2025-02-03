@@ -17,9 +17,12 @@ Ce document réalisé a été réalisé par agent1999 en collaboration avec HEBC
 ### Fonctionnement
 ***
 *Instructions pour exécuter le logiciel sous Eclipse :*
-1. Créer un nouveau projet de type Java Project ce qui ouvre la fenêtre New Java Project
-2. Décocher la case Use default location et mettre dans Location le chemin du dossier Cartes
-3. Cliquer en bas sur Finish
-4. Dans Project Explorer, dérouler le dossier Cartes, puis le dossier src, puis le package test
-5. Toujours dans Project Explorer, ouvrir le fichier TestCarteSimulation.java en double-cliquant dessus
-6. Appuyer sur le bouton vert avec un triangle vert (ou blanc) en haut d'Eclipe pour éxécuter le logiciel
+1. Mettre le dossier src dans un autre dossier qui sera le workspace
+2. Ouvrir le logiciel Eclipse, sélectionner le workspace, et cliquer sur Launch
+3. Si vous n'avez pas eu de fenêtre pour sélectionner le workspace, aller dans File -> Switch Workspace -> Other, et sélectionner le workspace, puis cliquer sur Launch
+4. Dans le Package Explorer, cliquer sur Create a Java project
+5. Décocher la case Use default location et mettre dans Location le chemin du workspace
+6. Cliquer en bas sur Finish
+7. Dans Project Explorer, dérouler le dossier du workspace, puis le dossier src, et enfin le package test
+8. Toujours dans Project Explorer, ouvrir le fichier TestCarteSimulation.java en double-cliquant dessus
+9. Appuyer sur le bouton vert avec un triangle blanc en haut d'Eclipe pour éxécuter le logiciel
